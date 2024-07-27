@@ -107,66 +107,66 @@ Here's an example of a todo list included in the app:
 
 ```json
 [
-    {
-        "id": 1,
-        "Activity": "Wake up and freshen up at 6:00 AM."
-    },
-    {
-        "id": 2,
-        "Activity": "Jogging for 2 hours at 7:00 AM."
-    },
-    {
-        "id": 3,
-        "Activity": "Have breakfast at 9:00 AM."
-    },
-    {
-        "id": 4,
-        "Activity": "Attend AI and computer engineering class at 10:00 AM."
-    },
-    {
-        "id": 5,
-        "Activity": "Study and complete assignments at 12:00 PM."
-    },
-    {
-        "id": 6,
-        "Activity": "Have lunch at 1:00 PM."
-    },
-    {
-        "id": 7,
-        "Activity": "Writing 3 pages of my new book at 2:00 PM."
-    },
-    {
-        "id": 8,
-        "Activity": "Take a short nap at 4:00 PM."
-    },
-    {
-        "id": 9,
-        "Activity": "Go to the gym at 5:00 PM."
-    },
-    {
-        "id": 10,
-        "Activity": "Return home and shower at 7:00 PM."
-    },
-    {
-        "id": 11,
-        "Activity": "Prepare and have dinner at 8:00 PM."
-    },
-    {
-        "id": 12,
-        "Activity": "Relax and watch TV or read a book at 9:00 PM."
-    },
-    {
-        "id": 13,
-        "Activity": "Work on personal projects or hobbies at 10:00 PM."
-    },
-    {
-        "id": 14,
-        "Activity": "Prepare for bed and unwind at 11:00 PM."
-    },
-    {
-        "id": 15,
-        "Activity": "Go to sleep at 11:30 PM."
-    }
+  {
+    "id": 1,
+    "Activity": "Wake up and freshen up at 6:00 AM."
+  },
+  {
+    "id": 2,
+    "Activity": "Jogging for 2 hours at 7:00 AM."
+  },
+  {
+    "id": 3,
+    "Activity": "Have breakfast at 9:00 AM."
+  },
+  {
+    "id": 4,
+    "Activity": "Attend AI and computer engineering class at 10:00 AM."
+  },
+  {
+    "id": 5,
+    "Activity": "Study and complete assignments at 12:00 PM."
+  },
+  {
+    "id": 6,
+    "Activity": "Have lunch at 1:00 PM."
+  },
+  {
+    "id": 7,
+    "Activity": "Writing 3 pages of my new book at 2:00 PM."
+  },
+  {
+    "id": 8,
+    "Activity": "Take a short nap at 4:00 PM."
+  },
+  {
+    "id": 9,
+    "Activity": "Go to the gym at 5:00 PM."
+  },
+  {
+    "id": 10,
+    "Activity": "Return home and shower at 7:00 PM."
+  },
+  {
+    "id": 11,
+    "Activity": "Prepare and have dinner at 8:00 PM."
+  },
+  {
+    "id": 12,
+    "Activity": "Relax and watch TV or read a book at 9:00 PM."
+  },
+  {
+    "id": 13,
+    "Activity": "Work on personal projects or hobbies at 10:00 PM."
+  },
+  {
+    "id": 14,
+    "Activity": "Prepare for bed and unwind at 11:00 PM."
+  },
+  {
+    "id": 15,
+    "Activity": "Go to sleep at 11:30 PM."
+  }
 ]
 ```
 
@@ -175,4 +175,3 @@ Here's an example of a todo list included in the app:
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 **© 2024 Lahcen Ezzara**
-```
